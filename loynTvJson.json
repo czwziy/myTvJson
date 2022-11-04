@@ -1,6 +1,6 @@
 {
 "sites":[
-{"key":"七七","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": " https://raw.githubusercontent.com/czwziy/myTvJson/main/loynJar1.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"},
+{"key":"七七","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.githubusercontent.com/czwziy/myTvJson/main/loynJar1.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"},
 {"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Bttoo","name":"两个BT","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "剧荒","name": "剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -22,7 +22,7 @@
 {"key": "csp_Blixq","name":"戏曲","type": 3,"api": "csp_Blixq","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key":"csp_Ddrk","name":"低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},  
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
-{"key": "zhaozy","name": "找资源(仅搜索-选原画播放)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "4bbf4a4162f24b48b3e2ab35f1550c4f","jar": " https://raw.githubusercontent.com/czwziy/myTvJson/main/loynJar2.jar;md5;EAE98CE31FB02CEDE605344C3B942668"},
+{"key": "zhaozy","name": "找资源(仅搜索-选原画播放)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "4bbf4a4162f24b48b3e2ab35f1550c4f","jar": "https://raw.githubusercontent.com/czwziy/myTvJson/main/loynJar2.jar;md5;EAE98CE31FB02CEDE605344C3B942668"},
 {"key": "神马影院","name": "神马","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Lezhu","name": "乐猪","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
 {"key":"csp_xpath_lib","name":"LIBVIO(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/lib.json"},
@@ -54,7 +54,7 @@
 ]
 }
 ],
-"spider":" https://raw.githubusercontent.com/czwziy/myTvJson/main/loynJar3.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA",
+"spider":"https://raw.githubusercontent.com/czwziy/myTvJson/main/loynJar3.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA",
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
